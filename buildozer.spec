@@ -1,6 +1,6 @@
 [app]
 
-# (str) Title of your application
+# (str) Title of your application me
 title = Heroes and goblins
 
 # (str) Package name
